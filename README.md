@@ -18,7 +18,7 @@
 
 ✅ = OK, testato da utenti reali / OK, tested but real users
 
-🟡 = OK ma richiede più test da utenti reali (alcuni casi non funzionano oppure è corretto che non ci siano dati) / OK but it requires more test by real users (some cases doesn't work or maybe it's correct to not have datas)
+🟡 = OK ma richiede più test da utenti reali (alcuni casi non funzionano oppure è corretto che non ci siano dati) / OK but it requires more tests by real users (some cases don't work or maybe it's correct to not have datas)
 
 ⚠️ = Problema con la mia personale interpretazione dei dati o Problema con i dati GTFS della società di trasporti / Issue with my personal interpretation of data or issue with company site
 
